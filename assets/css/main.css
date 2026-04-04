@@ -30,6 +30,18 @@ html, body {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+.inst-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.uff-logo {
+  height: 22px;
+  width: auto;
+  object-fit: contain;
+}
+
 .institutional-inner {
   max-width: 1200px;
   height: 100%;
@@ -307,6 +319,14 @@ body.internal .content h2 {
   .institutional-bar {
     height: 32px;
     font-size: 0.75rem;
+  }
+
+  .institutional-inner {
+    padding: 0 0.8rem;
+  }
+
+  .uff-logo {
+    height: 18px;
   }
 
   /* Conteúdo */
