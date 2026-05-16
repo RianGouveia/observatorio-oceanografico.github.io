@@ -6,8 +6,11 @@ lang: en
 excerpt: "The Observatorio Oceanografico Ocean Literacy initiatives received 37 applications for 4 positions, highlighting strong engagement with university extension, environmental education, and science communication."
 categories: [cultura-oceanica, extensao, observatorio-oceanografico]
 tags: [Ocean Culture, Ocean Literacy, University Extension, Science Communication, Environmental Education]
-image: /assets/img/noticias/2026-05-16-cultura-oceanica-em-acao.png
 ---
+
+<p align="center">
+  <img src="{{ '/assets/img/noticias/2026-05-16-cultura-oceanica-em-acao.png' | relative_url }}" alt="The Observatorio Oceanografico Ocean Literacy initiatives" width="350">
+</p>
 
 The selection process for the Ocean Literacy initiatives of the Observatorio Oceanografico received **37 applications for 4 positions**.
 

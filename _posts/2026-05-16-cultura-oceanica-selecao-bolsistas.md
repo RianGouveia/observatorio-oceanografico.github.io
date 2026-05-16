@@ -6,8 +6,11 @@ lang: pt
 excerpt: "As ações de Cultura Oceânica do Observatório Oceanográfico receberam 37 candidaturas para 4 vagas, reforçando o compromisso com extensão, educação ambiental e comunicação científica."
 categories: [cultura-oceanica, extensao, observatorio-oceanografico]
 tags: [Cultura Oceânica, Ocean Literacy, Extensão Universitária, Comunicação Científica, Educação Ambiental]
-image: /assets/img/noticias/2026-05-16-cultura-oceanica-em-acao.png
 ---
+
+<p align="center">
+  <img src="{{ '/assets/img/noticias/2026-05-16-cultura-oceanica-em-acao.png' | relative_url }}" alt="Ações de Cultura Oceânica do Observatório Oceanográfico" width="350">
+</p>
 
 O processo seletivo para as ações de Cultura Oceânica do Observatório Oceanográfico recebeu **37 candidaturas para 4 vagas**.
 
