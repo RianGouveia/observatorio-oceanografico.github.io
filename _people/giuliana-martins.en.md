@@ -1,15 +1,25 @@
 ---
 layout: academic_profile
+title: "Giuliana Martins"
 lang: en
-title: Giuliana Martins
-name: Giuliana Martins
-role: CNPq Cultural Dissemination Support Fellow
+permalink: /people/giuliana-martins/
+alt_lang: /pessoas/giuliana-martins/
+
+role: "CNPq Cultural Dissemination Support Fellow"
+affiliation: "Oceanographic Observatory"
+affiliation_url: "https://observatoriooceanografico.org"
+
+avatar: "/assets/img/equipe/female.png"
+
 email: ""
-image: assets/img/equipe/female.png
 lattes: ""
 orcid: ""
 github: ""
 researchgate: ""
+
+location: ""
+order: 41
+slug: giuliana-martins
 ---
 
 This page is still under construction.

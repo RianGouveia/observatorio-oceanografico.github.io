@@ -1,15 +1,25 @@
 ---
 layout: academic_profile
+title: "Giuliana Martins"
 lang: pt
-title: Giuliana Martins
-name: Giuliana Martins
-role: Bolsista de Apoio a Difusão Cultural - CNPq
+permalink: /pessoas/giuliana-martins/
+alt_lang: /people/giuliana-martins/
+
+role: "Bolsista de Apoio a Difusão Cultural - CNPq"
+affiliation: "Observatório Oceanográfico"
+affiliation_url: "https://observatoriooceanografico.org"
+
+avatar: "/assets/img/equipe/female.png"
+
 email: ""
-image: assets/img/equipe/female.png
 lattes: ""
 orcid: ""
 github: ""
 researchgate: ""
+
+location: ""
+order: 41
+slug: giuliana-martins
 ---
 
 Esta página ainda está em construção.

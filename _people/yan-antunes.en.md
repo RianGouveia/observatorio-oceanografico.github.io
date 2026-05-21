@@ -1,15 +1,25 @@
 ---
 layout: academic_profile
+title: "Yan Antunes"
 lang: en
-title: Yan Antunes
-name: Yan Antunes
-role: Scientific Initiation Fellow - INCT ReNOMO
+permalink: /people/yan-antunes/
+alt_lang: /pessoas/yan-antunes/
+
+role: "Scientific Initiation Fellow - INCT ReNOMO"
+affiliation: "Oceanographic Observatory"
+affiliation_url: "https://observatoriooceanografico.org"
+
+avatar: "/assets/img/equipe/male.png"
+
 email: ""
-image: assets/img/equipe/male.png
 lattes: ""
 orcid: ""
 github: ""
 researchgate: ""
+
+location: ""
+order: 42
+slug: yan-antunes
 ---
 
 This page is still under construction.

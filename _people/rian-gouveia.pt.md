@@ -1,15 +1,25 @@
 ---
 layout: academic_profile
+title: "Rian Gouveia"
 lang: pt
-title: Rian Gouveia
-name: Rian Gouveia
-role: Bolsista de Iniciação Científica - INCT ReNOMO
+permalink: /pessoas/rian-gouveia/
+alt_lang: /people/rian-gouveia/
+
+role: "Bolsista de Iniciação Científica - INCT ReNOMO"
+affiliation: "Observatório Oceanográfico"
+affiliation_url: "https://observatoriooceanografico.org"
+
+avatar: "/assets/img/equipe/male.png"
+
 email: ""
-image: assets/img/equipe/male.png
 lattes: ""
 orcid: ""
 github: ""
 researchgate: ""
+
+location: ""
+order: 43
+slug: rian-gouveia
 ---
 
 Esta página ainda está em construção.
